@@ -1,0 +1,8 @@
+Django
+django-allauth
+drf-yasg
+djangorestframework
+dj-rest-auth
+Pillow
+
+
